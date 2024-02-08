@@ -8,6 +8,9 @@
 - Supervisor
 - Horizon
 - Vue 3 with Inertiajs
+## Example user with message history
+- example@gmail.com
+- password
 ## Run/down docker containers
 - make up
 - make down
