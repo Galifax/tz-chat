@@ -11,6 +11,8 @@
 ## Example user with message history
 - example@gmail.com
 - password
+## Verify email
+- After register user go to http://localhost:1080 
 ## Run/down docker containers
 - make up
 - make down
